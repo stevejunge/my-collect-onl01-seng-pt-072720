@@ -11,3 +11,6 @@ def my_collect(array)
 end
 
 my_collect(items) {|i| i.upcase}
+
+
+list = ["Tim Jones", "Bob Costas", "Don Knotts"]
