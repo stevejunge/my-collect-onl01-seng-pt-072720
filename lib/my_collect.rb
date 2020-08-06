@@ -10,4 +10,4 @@ def my_collect(array)
   living_room
 end
 
-my_collect(items) {|i| i.split(" ").upcase}
+my_collect(items) {|i| i.upcase}
